@@ -25,7 +25,7 @@ This project focuses on analyzing historical sales data and building an interact
 * Sales Growth Percentage
 * Interactive Filters (Date, Region, Category)
 ## Dashboard Preview
-![Dashboard](Predictive%20Analytics%20using%20Historical%20data.png)
+Predictive Analytics using Histrorical data.png
 ## Key Insights
 * Sales have shown a consistent upward trend over the last 5 years.
 * Electronics is the top-performing product category contributing the highest share of total sales.
